@@ -6,7 +6,7 @@
     <ProjectGuid>9e1d8026-a89d-4328-9cb1-f9cd5d6199f8</ProjectGuid>
     <DockerLaunchBrowser>True</DockerLaunchBrowser>
     <DockerServiceUrl>http://localhost:{ServicePort}/api/values</DockerServiceUrl>
-    <DockerServiceName>randomuserapp</DockerServiceName>
+    <DockerServiceName>randomuserapi</DockerServiceName>
   </PropertyGroup>
   <ItemGroup>
     <None Include="docker-compose.ci.build.yml" />
